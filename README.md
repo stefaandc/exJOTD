@@ -16,4 +16,15 @@ Functionality:
 
 Some screenshots:
 
-![Image description](link-to-image)
+Start application
+![](docs/1.png)
+
+Get a random Joke
+![](docs/3.png)
+
+Get more jokes
+![](docs/2.png)
+
+Delete a joke
+![](docs/5.png)
+![](docs/4.png)
